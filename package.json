@@ -25,7 +25,7 @@
     "mocha-junit-reporter": "^1.13.0",
     "mocha-multi-reporters": "^1.1.4",
     "moment": "^2.27.0",
-    "morgan": "~1.8.1",
+    "morgan": "~1.9.1",
     "node-datetime": "^2.1.2",
     "sequelize": "^5.21.13",
     "serve-favicon": "~2.4.2",
