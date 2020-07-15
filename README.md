@@ -1,7 +1,7 @@
 #Please use node version 8.10.0
 
-npm run dev # Run server
-npm run test # Run unit test
+- npm run dev # Run server
+- npm run test # Run unit test
 
 
 # Api routes
